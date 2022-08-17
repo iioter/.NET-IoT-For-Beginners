@@ -3,11 +3,14 @@
 
 近日搞硬件网关时，那些*残存*的**数电、模电和通信原理**的记忆时常在脑海中萦绕；
 
-想起来多年前看**张高兴**的博客学会了**.netcore+树莓派**进行**物联网**开发。
+想起来多年前看**张高兴**的博客学习了**.netcore+树莓派**进行**物联网**开发。
 
 使用dragonboard(龙板)搭载windows 10 iot系统，配合光电传感器和rfid实现了一个项目原型。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/iaPA5yvUcnGj2yOg7fW5WOeccPSufY4g4cTWmfBgibRmT8BHfB2VEWicaGfF5iciaYkpRhrXBI1uH7vafCQ9dXR8y9Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![图片](https://mmbiz.qpic.cn/mmbiz_png/iaPA5yvUcnGj2yOg7fW5WOeccPSufY4g4EmNon0r6e4r3yemrQ3ichEPyElgDTLD8CfKcRXDQcbFj0TApdrU8vXw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./images/demo.png" alt="demo" style="zoom:53%;" />
+
+<img src="./images/demo1.png" alt="demo1" style="zoom:100%;" />
+
 ## 今天
 
 
@@ -15,7 +18,7 @@
 
 我看了眼用来**编译镜像**的树莓派，发现柜子中还有一些N年前买的**电子元器件**(进行了增补)
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/iaPA5yvUcnGj2yOg7fW5WOeccPSufY4g4wuVTiaqjdleCLBcnMibv7uhOibwhxpSlkYsDsO9R0GS1IvWsFal1jZk0Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./images/component.png" alt="图片" style="zoom:60%;" />
 
 ## 明天
 是的我要搞一个**新系列**：**《.NET物联网从零开始》**。
