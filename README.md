@@ -1,5 +1,4 @@
 # .NET-IoT-For-Beginners
-
 ## 过去
 
 近日搞硬件网关时，那些*残存*的**数电、模电和通信原理**的记忆时常在脑海中萦绕；
@@ -44,8 +43,8 @@
 
 ### **第一章-入门**
 
-- 1.-1 树莓派
-- 1.0 .NET6程序运行
+- 1.-1 [树莓派](./1-getting-started/1-raspberry-pi/README.md)
+- 1.0 [.NET6程序运行](./1-getting-started/2-run-.net6-on-pi/README.md)
 
 - 1.1 物联网简介
 - 1.2 传感器和执行器

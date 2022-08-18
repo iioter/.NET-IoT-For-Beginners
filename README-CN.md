@@ -43,8 +43,8 @@
 
 ### **第一章-入门**
 
-- 1.-1 树莓派
-- 1.0 .NET6程序运行
+- 1.-1 [树莓派](./1-getting-started/1-raspberry-pi/README.md)
+- 1.0 [.NET6程序运行](./1-getting-started/2-run-.net6-on-pi/README.md)
 
 - 1.1 物联网简介
 - 1.2 传感器和执行器
